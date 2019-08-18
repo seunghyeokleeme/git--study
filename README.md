@@ -15,10 +15,12 @@
 2. Commit----- change write(깃이 추적하여 변경사항의 보관함)
 3. Branches------- defalut :master ---last work(user using..) /// new item add?? no master?? ---- new branch use!!!
 
+//local respository remote repository
+push: 원격 저장소에 밀어놓는 것 (인터넷으로 밀어놓은 것
+
 - link: https://help.github.com/en/articles/github-glossary
   // GitHub glossary(용어집)--- 중요중요
-
----
+)
 
 <h2>목적</h2>
 
@@ -30,9 +32,6 @@
 문서의 조작을 막아야 하는 분
 문서를 안전하게 백업해야 하는 분
 문서를 다른 사람과 공유해서 공동으로 작업하는 분
-
-//local respository remote repository
-push: 원격 저장소에 밀어놓는 것 (인터넷으로 밀어놓은 것)
 
 ---
 
