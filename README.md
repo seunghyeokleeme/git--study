@@ -18,7 +18,9 @@
 - link: https://help.github.com/en/articles/github-glossary
   // GitHub glossary(용어집)--- 중요중요
 
-##목적
+---
+
+<h2>목적</h2>
 
 이 수업은 아래와 같은 상황에 있는 분들을 위한 수업입니다. 아래에서 문서란 일반적인 텍스트 문서에서부터 이미지, 소스코드를 망라한 모든 파일이라고 생각하시면 됩니다.
 
